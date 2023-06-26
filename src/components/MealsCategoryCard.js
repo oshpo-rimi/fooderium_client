@@ -18,7 +18,7 @@ const MealsCategoryCard = ({category}) => {
     <h2 className="card-title">{strCategory}</h2>
 
     <div className="card-actions justify-end">
-      <button className="btn btn-primary btn-sm">Show Details</button>
+      <button className="btn btn-primary btn-sm">Show Detail</button>
       
       <button className="btn btn-sm">Show Meals</button>
     </div>
